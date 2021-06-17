@@ -1,0 +1,55 @@
+body{
+    background: rgb(61, 60, 60);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+h2{ 
+    font-size: 40px;
+    text-align: center;
+    
+}
+p{
+    font-size:larger ;
+    text-align: center;
+}
+.caixa2{
+    position: absolute;
+    top: 375px;
+    left: 150px;
+    width: 500px;
+    height: 1000px;
+   
+} 
+.mito{
+    background: rgb(116, 2, 2);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 400px;
+    left:900px;
+    width: 420px;
+    height: 300px;
+    text-align: center;
+}
+.gear-8{
+    position: absolute;
+    top: 1500px;
+    left:600px;
+    font-size: 24px;
+}
+.beyonder{
+    position: absolute;
+    top: 700px;
+    left:900px;
+    width: 400px;
+    height: 300px;
+}
+.bey{
+    border: 10px solid #000;
+    width: 400px;
+    height: 500px;
+}
